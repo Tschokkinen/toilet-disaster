@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Leg
+  - Ant
+  - Spider
+  - Toilet paper
+  - Mouse
+  - Head
+  - Target area
+  - Door knob
+  - Mouse destroy
+  - Pooplet
+  - Exit
+  - Enter
+  - Boss
+  - AutoScore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Intruder
+  - Toilet
+  - EnterPoint
+  - Pooplet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 300442805
+    locked: 0
+  - name: Intruders
+    uniqueID: 3314311949
+    locked: 0
+  - name: Level over layer
+    uniqueID: 3637255751
+    locked: 0

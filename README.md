@@ -1,5 +1,5 @@
 # toilet-disaster
-An old mobile game demo. <b>A new, streamlined 2023 version is in the works, but the repo for that isn't currently public... for reasons.</b>
+An old mobile game demo. <b>A new, streamlined 2023 version is in the works, and you can find it <a href="https://github.com/Tschokkinen/ToiletDisaster2023">HERE</a>.</b>
 
 <p><b>Platform:</b> Unity (tested on version 2020.3.44f1)</p>
 
